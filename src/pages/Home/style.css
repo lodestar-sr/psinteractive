@@ -1,0 +1,25 @@
+.homepage {
+    width: 100%;
+    padding: 1rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table tr th,
+table tr td {
+    padding: 8px 12px;
+}
+
+table thead tr {
+    background: #f8f8f8;
+    color: #45484b;
+    text-align: left;
+}
+
+table tbody tr:nth-child(even) {
+    background: #f8f8f8;
+    text-align: left;
+}
